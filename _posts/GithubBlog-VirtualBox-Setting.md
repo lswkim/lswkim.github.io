@@ -12,3 +12,6 @@ last_modified_at: 2020-08-15T10:54:00-05:00
 1. Oracle Virtual Box란?  
 로컬 PC에 가상 Device를 만들고 서버를 설치 할 수 있도록 할 수 있다.  
 설치경로 : [https://www.virtualbox.org/](https://www.virtualbox.org/, "https://www.virtualbox.org/")  
+
+2. Centos 7  
+설치경로 : [https://www.centos.org/download/](https://www.centos.org/download/, "https://www.centos.org/download/")
