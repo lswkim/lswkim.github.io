@@ -279,3 +279,8 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# deployment
+host: 192.168.56.7
+port: 4000
+
