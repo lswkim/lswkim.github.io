@@ -15,3 +15,5 @@ last_modified_at: 2020-08-15T10:54:00-05:00
 
 2. Centos 7  
 파일 다운로드 : [https://www.centos.org/download/](https://www.centos.org/download/, "https://www.centos.org/download/")  
+
+2.1. Centos 네트워크 설정하기
