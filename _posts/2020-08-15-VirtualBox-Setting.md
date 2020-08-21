@@ -19,4 +19,4 @@ last_modified_at: 2020-08-15T10:54:00-05:00
 2.1. Centos 네트워크 설정하기  
 
 2.2. yum으로 설치가 필요한 패키지 확인하기  
-# yum provides ifconfig  
+\# yum provides ifconfig  
