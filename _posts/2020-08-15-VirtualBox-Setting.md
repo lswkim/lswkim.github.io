@@ -9,20 +9,20 @@ tags:
 last_modified_at: 2020-08-15T10:54:00-05:00
 ---
 
-1. Oracle Virtual Box란?  
+## 1. Oracle Virtual Box란?  
 로컬 PC에 가상 Device를 만들고 서버를 설치 할 수 있도록 할 수 있다.  
 파일 다운로드 : [https://www.virtualbox.org/](https://www.virtualbox.org/, "https://www.virtualbox.org/")  
 
-2. Centos 7  
+## 2. Centos 7  
 파일 다운로드 : [https://www.centos.org/download/](https://www.centos.org/download/, "https://www.centos.org/download/")  
 
-2.1. Centos 네트워크 설정하기  
+### 2.1. Centos 네트워크 설정하기  
   
-2.1.1. ipaddr을 사용해도 되지만 익숙한 ifconfig를 사용해본다.  
+#### 2.1.1. ipaddr을 사용해도 되지만 익숙한 ifconfig를 사용해본다.  
 \-아래와 같이 오류가 발생한다.  
   
-2.1.2. yum으로 설치가 필요한 패키지 확인하기  
+#### 2.1.2. yum으로 설치가 필요한 패키지 확인하기  
 \# yum provides ifconfig  
   
-2.1.3. yum 으로 설치하기  
+#### 2.1.3. yum 으로 설치하기  
 \# yum -y install ifconfig  
