@@ -1,5 +1,5 @@
 ---
-title: "RPC(Remote Procedure Call) 개념"
+title: "[gRPC 기반기술 1] RPC(Remote Procedure Call) 개념"
 date: 2025-12-28 16:00:00 +0900
 categories: [Tech, gRPC]
 tags: [rpc, distributed-system, network, grpc]

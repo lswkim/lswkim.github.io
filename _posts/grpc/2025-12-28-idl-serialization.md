@@ -1,5 +1,5 @@
 ---
-title: "IDL과 직렬화/역직렬화"
+title: "[gRPC 기반기술 2] IDL과 직렬화/역직렬화"
 date: 2025-12-28 17:00:00 +0900
 categories: [Tech, gRPC]
 tags: [idl, serialization, deserialization, grpc]

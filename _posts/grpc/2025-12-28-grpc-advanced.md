@@ -1,5 +1,5 @@
 ---
-title: "Channel, Metadata, Error Handling"
+title: "[gRPC 핵심개념 3] Channel, Metadata, Error Handling"
 date: 2025-12-28 22:00:00 +0900
 categories: [Tech, gRPC]
 tags: [grpc, channel, metadata, error-handling]

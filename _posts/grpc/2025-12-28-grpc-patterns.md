@@ -1,5 +1,5 @@
 ---
-title: "4가지 통신 패턴"
+title: "[gRPC 핵심개념 2] 4가지 통신 패턴"
 date: 2025-12-28 21:00:00 +0900
 categories: [Tech, gRPC]
 tags: [grpc, streaming, unary, bidirectional]

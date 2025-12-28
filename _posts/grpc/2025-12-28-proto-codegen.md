@@ -1,5 +1,5 @@
 ---
-title: ".proto 파일과 코드 생성"
+title: "[gRPC 핵심개념 1] .proto 파일과 코드 생성"
 date: 2025-12-28 20:00:00 +0900
 categories: [Tech, gRPC]
 tags: [grpc, protobuf, proto, codegen]

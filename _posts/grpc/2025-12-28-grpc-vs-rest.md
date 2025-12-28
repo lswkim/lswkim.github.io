@@ -1,5 +1,5 @@
 ---
-title: "gRPC vs REST 비교"
+title: "[gRPC 핵심개념 4] gRPC vs REST 비교"
 date: 2025-12-28 23:00:00 +0900
 categories: [Tech, gRPC]
 tags: [grpc, rest, api, comparison]
