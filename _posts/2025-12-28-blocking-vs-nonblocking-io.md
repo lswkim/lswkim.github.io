@@ -12,7 +12,6 @@ mermaid: true
 > 2. [동시성 vs 병렬성](/posts/concurrency-vs-parallelism/)
 > 3. 블로킹 vs 논블로킹 I/O ← 현재 글
 > 4. [I/O 멀티플렉싱](/posts/io-multiplexing/)
-> 5. 이벤트 루프와 asyncio (예정)
 
 ---
 
