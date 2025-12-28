@@ -1,0 +1,40 @@
+---
+---
+
+@import 'main';
+
+/* h2 제목 스타일 커스터마이징 */
+.content h2 {
+  background-color: #f8f9fa;
+  border-left: 4px solid #0056b2;
+  padding: 0.5em 0.8em;
+  margin-top: 2rem;
+}
+
+/* h3 제목 스타일 커스터마이징 */
+.content h3 {
+  border-bottom: 1px dashed #dee2e6;
+  padding-bottom: 0.3em;
+}
+
+/* 다크모드 */
+html[data-mode="dark"] .content h2 {
+  background-color: #2a2a2a;
+  border-left-color: #5a9bcf;
+}
+
+html[data-mode="dark"] .content h3 {
+  border-bottom-color: #444;
+}
+
+/* 시스템 다크모드 대응 */
+@media (prefers-color-scheme: dark) {
+  html:not([data-mode]) .content h2 {
+    background-color: #2a2a2a;
+    border-left-color: #5a9bcf;
+  }
+
+  html:not([data-mode]) .content h3 {
+    border-bottom-color: #444;
+  }
+}
