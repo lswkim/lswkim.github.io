@@ -1,6 +1,6 @@
 ---
 title: "[FastAPI 실전심화 5] 프로젝트 구조 설계"
-date: 2025-12-29 14:00:00 +0900
+date: 2025-12-29 09:00:00 +0900
 categories: [Tech, FastAPI]
 tags: [python, fastapi, project-structure, architecture, clean-code]
 mermaid: true

@@ -1,6 +1,6 @@
 ---
 title: "[FastAPI 실전심화 6] Python 객체/리소스 관리 패턴"
-date: 2025-12-29 15:00:00 +0900
+date: 2025-12-29 09:30:00 +0900
 categories: [Tech, FastAPI]
 tags: [python, fastapi, resource-management, context-manager, lifespan]
 mermaid: true

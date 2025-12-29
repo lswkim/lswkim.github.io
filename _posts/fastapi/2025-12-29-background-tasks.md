@@ -1,6 +1,6 @@
 ---
 title: "[FastAPI 실전심화 2] BackgroundTasks와 작업 큐"
-date: 2025-12-29 11:00:00 +0900
+date: 2025-12-29 06:00:00 +0900
 categories: [Tech, FastAPI]
 tags: [python, fastapi, background-tasks, celery, queue]
 mermaid: true

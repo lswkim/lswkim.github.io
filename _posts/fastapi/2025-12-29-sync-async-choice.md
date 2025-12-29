@@ -1,6 +1,6 @@
 ---
 title: "[FastAPI 실전심화 1] 동기 함수 vs 비동기 함수 선택 기준"
-date: 2025-12-29 10:00:00 +0900
+date: 2025-12-29 05:00:00 +0900
 categories: [Tech, FastAPI]
 tags: [python, fastapi, async, sync, performance]
 mermaid: true

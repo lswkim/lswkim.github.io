@@ -1,6 +1,6 @@
 ---
 title: "[FastAPI 실전심화 4] FastAPI 예외처리"
-date: 2025-12-29 13:00:00 +0900
+date: 2025-12-29 08:00:00 +0900
 categories: [Tech, FastAPI]
 tags: [python, fastapi, exception, error-handling, http-exception]
 mermaid: true
